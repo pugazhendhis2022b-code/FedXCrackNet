@@ -1,0 +1,7 @@
+names:
+- Crack
+nc: 1
+path: D:/final crack detection/Concrete Crack.v2i.yolov8
+test: test/images
+train: train/images
+val: valid/images

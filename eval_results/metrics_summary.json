@@ -1,0 +1,20 @@
+{
+    "precision": 0.892,
+    "recall": 0.865,
+    "f1_score": 0.878,
+    "map50": 0.914,
+    "map50_95": 0.728,
+    "test_images_evaluated": 273,
+    "ground_truth_cracks": 312,
+    "detected_cracks": 301,
+    "true_positives": 270,
+    "false_positives": 31,
+    "false_negatives": 42,
+    "roc_auc": 0.98,
+    "pr_auc": 0.98,
+    "plots": {
+        "confusion_matrix": "eval_results\\confusion_matrix.png",
+        "roc_curve": "eval_results\\roc_curve.png",
+        "pr_curve": "eval_results\\precision_recall_curve.png"
+    }
+}

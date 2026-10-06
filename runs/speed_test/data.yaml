@@ -1,0 +1,6 @@
+names:
+- Crack
+nc: 1
+path: D:\final crack detection
+train: D:\final crack detection\runs\speed_test\train.txt
+val: D:\final crack detection\runs\speed_test\val.txt

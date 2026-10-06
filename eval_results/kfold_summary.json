@@ -1,0 +1,59 @@
+{
+    "num_folds": 5,
+    "folds": [
+        {
+            "Fold": "Fold 1",
+            "Precision": 0.894,
+            "Recall": 0.868,
+            "F1-Score": 0.881,
+            "mAP@50": 0.918,
+            "mAP@50-95": 0.732
+        },
+        {
+            "Fold": "Fold 2",
+            "Precision": 0.887,
+            "Recall": 0.859,
+            "F1-Score": 0.873,
+            "mAP@50": 0.909,
+            "mAP@50-95": 0.721
+        },
+        {
+            "Fold": "Fold 3",
+            "Precision": 0.902,
+            "Recall": 0.874,
+            "F1-Score": 0.888,
+            "mAP@50": 0.924,
+            "mAP@50-95": 0.739
+        },
+        {
+            "Fold": "Fold 4",
+            "Precision": 0.881,
+            "Recall": 0.852,
+            "F1-Score": 0.866,
+            "mAP@50": 0.904,
+            "mAP@50-95": 0.716
+        },
+        {
+            "Fold": "Fold 5",
+            "Precision": 0.896,
+            "Recall": 0.871,
+            "F1-Score": 0.883,
+            "mAP@50": 0.917,
+            "mAP@50-95": 0.73
+        }
+    ],
+    "average_performance": {
+        "Precision": 0.892,
+        "Recall": 0.8648,
+        "F1-Score": 0.8782,
+        "mAP@50": 0.9144,
+        "mAP@50-95": 0.7276
+    },
+    "std_deviation": {
+        "Precision": 0.0082,
+        "Recall": 0.0091,
+        "F1-Score": 0.0087,
+        "mAP@50": 0.0079,
+        "mAP@50-95": 0.0091
+    }
+}

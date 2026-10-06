@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['Crack']
+
+roboflow:
+  workspace: concrete-crack
+  project: concrete-crack-6loqq
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/concrete-crack/concrete-crack-6loqq/dataset/2
